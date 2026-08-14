@@ -92,10 +92,6 @@ Through this project, I gained hands-on experience with:
 - EBS snapshots
 - Cloud cost management
 
-## 🎥 Project Explanation Video
-
-**Coming soon / Add your video link here**
-
 ## 👩‍💻 Project
 
 **InternshipAWS**
